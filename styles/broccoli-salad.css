@@ -1,0 +1,46 @@
+body {
+ background-color: rgb(146, 169, 153);
+}
+
+ .heading {
+ text-align: center;
+ background-color: rgb(122, 147, 129);
+ width: 33%;
+ padding: 7px;
+ margin-right: auto;
+ margin-left: auto;
+ border-radius: 10px;
+ border: solid rgb(96, 115, 102) 2px;
+}
+
+h1 {
+ font-size: 38px;
+}
+
+h2 {
+ font-size: 30px;
+}
+
+h3 {
+ font-size: 22px;
+}
+
+.para {
+ text-align: center;
+ background-color: rgba(122, 147, 129, 0.454);
+ width: 480px;
+ margin-right: auto;
+ margin-left: auto;
+ border-radius: 5px;
+ padding: 5px;
+}
+
+.salad-pic {
+ display: block;
+ height: 350px;
+ border-radius: 15px;
+ margin-right: auto;
+ margin-left: auto;
+}
+
+

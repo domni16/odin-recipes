@@ -1,0 +1,46 @@
+body {
+ background-color: rgb(254, 249, 210);
+}
+
+ .heading {
+ text-align: center;
+ background-color: rgb(197, 192, 147);
+ width: 33%;
+ padding: 7px;
+ margin-right: auto;
+ margin-left: auto;
+ border-radius: 10px;
+ border: solid rgba(125, 122, 94, 0.453) 2px;
+}
+
+h1 {
+ font-size: 38px;
+}
+
+h2 {
+ font-size: 30px;
+}
+
+h3 {
+ font-size: 22px;
+}
+
+.para {
+ text-align: center;
+ background-color: rgba(125, 122, 94, 0.122);
+ width: 380px;
+ margin-right: auto;
+ margin-left: auto;
+ border-radius: 5px;
+ padding: 5px;
+}
+
+.cake-pic {
+ display: block;
+ height: 350px;
+ border-radius: 15px;
+ margin-right: auto;
+ margin-left: auto;
+}
+
+

@@ -1,0 +1,39 @@
+body {
+ background-color: rgb(222, 205, 183);
+}
+
+.intro {
+ text-align: center;
+ font-family: fantasy;
+ box-sizing: border-box;
+ 
+}
+
+h1 {
+ font-size: 40px;
+ font-weight: 900;
+ margin: 15px auto;
+ padding: 8px;
+ width: 300px;
+ 
+}
+
+.link {
+ display: block;
+ background-color: rgb(159, 132, 97);
+ color: antiquewhite;
+ margin: 15px auto;
+ padding: 10px 10px 6px 10px;
+ width: 170px;
+ font-size: 20px;
+ text-decoration: none;
+ border-radius: 5px;
+}
+
+/* LINK DECORATION SECTION */
+
+a:hover {
+ color: rgb(210, 193, 173);
+}
+
+/* LINK DECORATION SECTION */
